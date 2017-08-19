@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name canadian_footprints)(type KiCad)(uri "D:/Dropbox/Keyboard Stuff/PCBs/libraries/OpenSourceLibs/canadian_footprints.pretty")(options "")(descr ""))
+)
